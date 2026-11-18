@@ -157,4 +157,4 @@ docker-compose down -v
 
 ## 👨‍💻 Author
 
-Developed with ❤️ by Anvesh.
+Developed with ❤️ by Sameer Reddy.
